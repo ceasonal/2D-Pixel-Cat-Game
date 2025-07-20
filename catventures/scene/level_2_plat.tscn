@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://b5ycg7g2ka0f5"]
+
+[ext_resource type="Texture2D" uid="uid://b4llimodhfidf" path="res://assets/2 Tilesets/Background/Props-01.png" id="1_yqanu"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pxg0i"]
+size = Vector2(46, 4)
+
+[node name="platform_2" type="AnimatableBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_yqanu")
+region_enabled = true
+region_rect = Rect2(16.0604, 143.928, 46.1105, 4.101)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_pxg0i")

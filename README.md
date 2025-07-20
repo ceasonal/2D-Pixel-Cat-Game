@@ -1,5 +1,5 @@
-# catVentures: A 2D Pixel Cat Game
-My first attempt at creating a game.
+# catVentures: A 2D Pixel Cat Game  
+My first attempt at creating a game. <img src="https://icons.veryicon.com/png/o/game/pixel-game-icon/pixel_-cat.png" width=20px>
 
 This is the first game I have made and it is made with GODOT. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" width=20px>
 
